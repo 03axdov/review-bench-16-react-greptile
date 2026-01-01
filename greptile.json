@@ -1,0 +1,3 @@
+{
+  "instructions": "You are reviewing a pull request. Review the changes between main and the\ncurrent branch (git diff main...HEAD). Look for defects: functional bugs,\nsecurity vulnerabilities, performance problems. Do not edit any files.\n\nAdditional rules:\n- Do not use the web. Do not search the internet, fetch URLs, or look up any external repository, issue tracker or pull request. Base the review only on the contents of this repository.\n- In your review summary, state which LLM model(s) were used to produce this review."
+}
